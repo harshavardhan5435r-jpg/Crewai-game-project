@@ -146,7 +146,6 @@ Passionate about Artificial Intelligence, Machine Learning, Multi-Agent Systems,
 
 GitHub: https://github.com/harshavardhan5435r-jpg
 
-LinkedIn: https://www.linkedin.com/in/harshavardhan5435r
 
 ---
 
